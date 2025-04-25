@@ -1,6 +1,6 @@
 
 # EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
-# NAME: MAOULIDHAR G
+# NAME: MOULIDHAR G
 # REG NNO: 212223240042
 
  ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
